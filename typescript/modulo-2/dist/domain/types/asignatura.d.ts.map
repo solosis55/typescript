@@ -1,0 +1,1 @@
+{"version":3,"file":"asignatura.d.ts","sourceRoot":"","sources":["../../../src/domain/types/asignatura.ts"],"names":[],"mappings":"AAAA;;;GAGG;AACH,MAAM,WAAW,UAAU;IACvB,QAAQ,CAAC,EAAE,EAAE,MAAM,CAAC;IACpB,kDAAkD;IAClD,MAAM,EAAE,MAAM,CAAC;IACf,MAAM,EAAE,MAAM,CAAC;IACf,8DAA8D;IAC9D,QAAQ,EAAE,MAAM,CAAC;IACjB,kBAAkB,EAAE,MAAM,CAAC;IAC3B,yDAAyD;IACzD,cAAc,EAAE,MAAM,CAAC;CAC1B"}
